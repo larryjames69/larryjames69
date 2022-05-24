@@ -8,4 +8,4 @@
 ### Repositories
 #### 🌟 If you are interested in any of my projects, you can checkout my repositories. I'm really not a fan of proprietary software, and most of my projects are licensed under a FOSS license.
 
-> If you would like to support my work in open-source, consider improving my projects or get in touch with me via [email](mailto:larryjames69@pm.me).
+> If you would like to support my work in open-source or in general, consider submitting pull requests or sponsoring my projects. Alternatively, get in touch with me via [email](mailto:larryjames69@pm.me).
