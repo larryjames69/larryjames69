@@ -10,4 +10,4 @@
 
 > If you would like to support my work in open-source or in general, consider submitting pull requests or sponsoring my projects. Alternatively, get in touch with me via [email](mailto:larryjames69@pm.me).
 
-[![😈](https://github-readme-stats.vercel.app/api?username=larryjames69)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larryjames69)](https://github.com/anuraghazra/github-readme-stats)
