@@ -1,9 +1,9 @@
 
 <img align="right" width="100" height="100" src="https://www.freeiconspng.com/uploads/github-icon-9.png">
 
-<p align="center">
-Hi there 👋
-</p>
+
+### Hi there 👋
+
 
 - 🔭 I'm just a programmer that started his journey in 2019 with C# and WinForms.
 - 🌱 I've made some contributions to the [Reqwest HTTP Crate](https://github.com/seanmonstar/reqwest).
