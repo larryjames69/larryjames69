@@ -1,7 +1,10 @@
 
 <img align="right" width="100" height="100" src="https://www.freeiconspng.com/uploads/github-icon-9.png">
 
-### Hi there 👋
+<p align="center">
+Hi there 👋
+</p>
+
 - 🔭 I'm just a programmer that started his journey in 2019 with C# and WinForms.
 - 🌱 I've made some contributions to the [Reqwest HTTP Crate](https://github.com/seanmonstar/reqwest).
 - ⚡ Besides programming & contributing to open source I enjoy to look into the inner workings of software.
@@ -13,6 +16,10 @@
 
 > If you would like to support my work in open-source or in general, consider submitting pull requests or sponsoring my projects. Alternatively, get in touch with me via [email](mailto:larryjames69@pm.me).
 
-![my stats??](https://github-readme-stats.vercel.app/api?username=larryjames69&show_icons=true&theme=dark)
 
-[![my langs??](https://github-readme-stats.vercel.app/api/top-langs/?username=larryjames69&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![my stats??](https://github-readme-stats.vercel.app/api?username=larryjames69&show_icons=true&theme=dark)
+
+
+  [![my langs??](https://github-readme-stats.vercel.app/api/top-langs/?username=larryjames69&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
